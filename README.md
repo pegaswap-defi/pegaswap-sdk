@@ -1,20 +1,7 @@
 # Pegaswap SDK
 
-
-## Running tests
-
-To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
-
-First clone the repository:
-
 ```sh
-git clone https://github.com/pegaswap-defi/pegaswap-sdk.git
-```
-
-Move into the Pegaswap-sdk working directory
-
-```sh
-cd Pegaswap-sdk/
+cd pegaswap-sdk/
 ```
 
 Install dependencies
@@ -41,10 +28,10 @@ $ tsdx test
  PASS  test/entities.test.ts
  PASS  test/trade.test.ts
 
-Test Suites: 1 skipped, 6 passed, 6 of 7 total
-Tests:       3 skipped, 82 passed, 85 total
+Test Suites: 1 skipped, 8 passed, 8 of 9 total
+Tests:       3 skipped, 123 passed, 126 total
 Snapshots:   0 total
-Time:        5.091s
+Time:        12.453s
 Ran all test suites.
-✨  Done in 6.61s.
+✨  Done in 14.22s.
 ```
