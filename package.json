@@ -2,7 +2,7 @@
   "name": "pegaswap-sdk",
   "version": "1.0.1",
   "description": "```sh\r cd pegaswap-sdk/\r ```",
-  "main": "index.js",
+  "main": "dist/index.js",
   "directories": {
     "test": "test"
   },
